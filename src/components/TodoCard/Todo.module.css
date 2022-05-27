@@ -1,0 +1,20 @@
+.todocard {
+    height: auto;
+}
+
+.alignitems {
+    margin: 18px !important;
+}
+
+#name,
+#discription {
+    width: 315px;
+}
+
+.carditem {
+    margin-left: 15px
+}
+
+.errorText{
+    color: red;
+}
